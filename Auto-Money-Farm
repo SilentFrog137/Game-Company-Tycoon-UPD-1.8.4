@@ -1,0 +1,6 @@
+-- Hello and thank you for using my script!
+-- I have made yet another auto-teleporter enjoy 😉!
+-- [Made By: SilentFrog137] 
+-- You will have to re-run the script manually as it only repeats itself 20 times!
+
+loadstring(game:HttpGet("https://pastebin.com/raw/E03tFzEX", true))()
